@@ -1,3 +1,3 @@
 # Link Shortener
 
-A simple URL shortening service.
+A Robust URL shortening service.
